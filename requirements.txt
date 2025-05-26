@@ -1,4 +1,8 @@
-tweepy==4.14.0
-pandas==2.2.2
-emoji==2.11.0
-langdetect==1.0.9
+
+streamlit
+pandas
+scikit-learn
+nltk
+wordcloud
+matplotlib
+seaborn
