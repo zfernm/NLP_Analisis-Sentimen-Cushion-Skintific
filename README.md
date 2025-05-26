@@ -35,19 +35,19 @@ Proyek ini merupakan aplikasi analisis sentimen berbasis Machine Learning yang d
 ## 📸 Galeri Output (Tambahkan Screenshot-mu di Sini)
 
 ### 1. Tabel Data Review (Preprocessing & Sentimen)
-![Preview Tabel Review](screenshots/review_table.png)
+![Preview Tabel Review](<Tabel Data Review.png>)
 
 ### 2. Distribusi Sentimen
-![Pie Chart Sentimen](screenshots/sentimen_pie.png)
+![Pie Chart Sentimen](<Distribusi Sentimen.png>)
 
-### 3. Wordcloud Positif
-![Wordcloud Positif](screenshots/wordcloud_pos.png)
+### 3. Wordcloud Positif & Negatif
+![Wordcloud Positif & Negatif](<Wordcloud Review Positif & Negatif.png>)
 
 ### 4. Wordcloud Negatif
-![Wordcloud Negatif](screenshots/wordcloud_neg.png)
+![Akurasi Model Machine Learning](<Akurasi Model Machine Learning.png>)
 
-### 5. Evaluasi Model ML
-![Evaluasi Model](screenshots/model_metrics.png)
+### 5. Kesimpulan dan Insight
+![Kesimpulan dan Insight](<Kesimpulan dan Insight.png>)
 
 ---
 
