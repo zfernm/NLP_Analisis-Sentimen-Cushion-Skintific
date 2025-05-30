@@ -103,4 +103,4 @@ Proyek ini cocok digunakan untuk:
 
 ---
 
-> Dibuat dengan ❤️ oleh [Nama Kamu]
+> Dibuat dengan ❤️ oleh [Samuel HS]
