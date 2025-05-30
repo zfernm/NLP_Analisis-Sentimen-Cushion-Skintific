@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import re
@@ -21,7 +20,7 @@ stop_words = set(stopwords.words('indonesian'))
 st.title("Analisis Sentimen Produk Cushion Skintific")
 
 # Load Data
-df = pd.read_csv("cleaned_cushion_skintific.csv")
+df = pd.read_csv("FINISIHING_DATASET.csv")
 
 # Labeling Sentimen berdasarkan Rating
 def label_sentiment(rating):
