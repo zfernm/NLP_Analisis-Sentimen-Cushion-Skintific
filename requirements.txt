@@ -6,3 +6,5 @@ nltk
 wordcloud
 matplotlib
 seaborn
+
+https://drive.google.com/file/d/1yzWiWSxEi-Q0Yav3bHpI0tjzMhkQLScx/view?usp=drive_link
